@@ -2,7 +2,7 @@
 A tabuada usando o algortimo FOR(para) em portugol!
 
 
-programa
+programa // by Rehfeld13
 {
 	
 	funcao inicio()
